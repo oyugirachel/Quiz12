@@ -61,3 +61,12 @@ img{
 .container{
 	margin-top: 40px;
 }
+table{
+	margin-top: 40px;
+	background-color: white;
+	color: grey !important;
+}
+footer{
+	background-color: #2F4351;
+	padding:50px;
+}
